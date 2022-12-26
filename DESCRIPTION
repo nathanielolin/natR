@@ -1,0 +1,10 @@
+Package: natR
+Title: Personal R Utilities
+Version: 0.0.0.9000
+Authors@R: 
+    person("Nathaniel", "Olin", , "nathaniel.olin@gmail.com", role = c("aut", "cre"))
+Description: R utilities for personal projects collected into a package, mostly for package development practice.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
